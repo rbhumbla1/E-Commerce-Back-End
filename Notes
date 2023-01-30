@@ -1,0 +1,14 @@
+Model/product.js
+1. check price - validate itis decimal
+2. check stock: {
+        type: DataTypes.INTEGER,
+        allowNull: false,
+        default: 10,
+        validate:{
+          isDecimal
+
+        }
+}
+model/index.js   - belongstomany - alias?
+
+routes - category- check for dlete

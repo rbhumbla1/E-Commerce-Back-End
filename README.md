@@ -174,7 +174,8 @@ The databse contains the following four models:
 
 ## Mock-Up
 
-Demo of Project: [Demo on Google Drive]() 
+Demo of Project: [Demo on Google Drive](https://drive.google.com/file/d/12XpBGXIgpQ7tN8l1EHGNny69JTAAhiTV/view?usp=sharing)  OR
+[File in Project](./assets/images/eCommerceBackEnd.mp4)
 
 Application Screenshot:
 
